@@ -5,7 +5,7 @@ Console.WriteLine("Novooo");
 Console.WriteLine("Barcot minja");
 
 
-
+Console.WriteLine("Bug je popravljen");
 
 
 
